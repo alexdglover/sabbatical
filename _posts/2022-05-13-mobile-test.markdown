@@ -9,4 +9,4 @@ Hey! I'm Alex. I'm going to be going on sabbatical soon, and I want to be able t
 
 Let's try to add a photo!
 
-![]({{ site.baseurl }}/img/PXL_20220510_151526621.MP.jpg)
+![]({{ site.baseurl }}/img/oskar.jpg)
