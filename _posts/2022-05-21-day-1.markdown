@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 1"
+title:  "Day 1 - Cranes"
 date:   2022-05-21 18:17:00 -0500
 categories: phase1
 ---
