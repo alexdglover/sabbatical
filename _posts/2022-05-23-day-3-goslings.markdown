@@ -22,3 +22,9 @@ falcons did a low and slow flyover, which felt like a private air show. Shot pre
 but managed to hit 5 free throws in a row which is pretty good for me. Talked to some random in
 the park, including a vagrant rambling about how California took down the basketball hoops
 after COVID hit
+* 1230 - lunch with Cassie
+* 1300 - walked to bike shop, about a mile round trip
+* 1400 - rented a paddle boat, the kind you _pedal_ (stupid name). Surprised at how smooth the boat
+was, able to cruise at a pretty good clip without a lot of effort
+* 1530 - took a break. Cold coffee at home, videogames, and editing this post
+* 1600 - continuing to cool down
