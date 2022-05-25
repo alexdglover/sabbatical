@@ -20,7 +20,7 @@ Specifically:
 * Exercise (running, kayaking, SUPing, biking)
 * Spending time outdoors
 * Meditation, self reflection
-* Creative outlets and hobbies like baking, studying spanish
+* Creative outlets and hobbies like baking, studying Spanish
 * Reading
 * Visiting friends and family, especially out of town
 * One-off tasks like getting my car washed, home projects that never get done
@@ -28,13 +28,11 @@ Specifically:
 Secondarily, my wife Cassie will be joining me for part of my sabbatical, but not all of it. I love spending time with my wife, but our
 interests don't overlap perfectly. Because she will be working, my sabbatical will be an opportunity to do some of the things she doesn't
 enjoy like:
-* Going to the gun range
 * Waking up early and going to a cafe/diner
 * Taking a flying lesson
 
 
-
-Besides the specific activities I want to do, I think it's important to think about _outcomes_ I want to get from my sabbatical.
+Besides thinking about the specific activities I want to do, it's important to think about the _outcomes_ I want to get from my sabbatical.
 
 ## Outcomes
 
