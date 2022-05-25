@@ -45,3 +45,5 @@ on a computer and of being frustrated by a computer, in small doses
 anxious. Hypothesis is that the pain in my chest is a constant. Hopefully I'm wrong and some more unemployed time will further reduce
 anxiety and the pain goes away
 * My activity level seems heavily dependent on good weather
+* A quote from my meditation this morning stuck out to me - "when feeling suffering or distress, it is an indication that we are not
+accepting what is arising"
