@@ -1,3 +1,30 @@
+---
+layout: post
+title:  "Day 5 - Meditations and sloth"
+date:   2022-05-25 23:00:00 -0500
+categories: phase1
+---
+
+Day 5 was earmarked as an indoor day. Rain forecasted for basically the entire day. I managed to take a walk to a coffee shop
+before the rain came, but was otherwise pretty lazy all day.
+
+* 0730 - walked to Wonderstate coffee. Drank coffee will doing some reflecting and writing. Thought a lot about purpose, whether it is necessary,
+whether it can be chosen arbitrarily. 
+* 0930 - played video games, ate some cereal
+* 1200 - had leftover tofu for lunch
+* 1230 - drove to the library
+* 1300 - did some admin work (email for condo, scheduled next Spanish lesson)
+* 1400 - settled down for a movie
+* 1600 - shaved my head and face, showered
+* 1700 - talked to my brother Greg on the phone. Had some tea
+* 1800 - made veggie burritos for dinner
+* 1900 - made dirt, the classic chocolate pudding dessert with Oreo crumbles. Watched TV
+* 2100 - cleaned out Cassie's Mazda in preparation for getting it detailed
+* 2130 - finally gave up on the pudding setting any better and ate all of it
+
+
+### Notes on meditation
+
 Meditation for me is about quieting the internal voice of the id. The voice that says I'm hungry, I'm bored, I'm anxious.
 Once done, the second phase is letting go of control, and focusing on being comfortable with the unknown. Being comfortable
 with not being in control. And then finding the relaxation that comes with not only letting go, but recognizing the ease of doing so
