@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Day 6 - Errands"
+date:   2022-05-26 18:00:00 -0500
+categories: phase1
+---
+
 Day 6 was productive, but a lot of it was shopping/returns. Used the quiet moments to do more reflecting on
 my recent thoughts on meditation. 
 
