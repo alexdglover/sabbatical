@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 5 - Meditations and sloth"
-date:   2022-05-25 23:00:00 -0500
+date:   2022-05-25 18:00:00 -0500
 categories: phase1
 ---
 
