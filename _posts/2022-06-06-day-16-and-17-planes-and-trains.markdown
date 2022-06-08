@@ -23,7 +23,13 @@ Once we were checked in, we rallied to stay awake, walked around, and finally se
 done sandwiches and caffeine. I think I got hustled into buying a ridiculously large latte, but I enjoyed it anyway.
 
 We walked to see a statue of Perseus and Medusa that I was psyched to see, plus a bunch more walking and general sight seeing.
+![Perseus and Medusa state]({{ site.baseurl}}/img/2022-06-06-perseus-statue.jpg)
 
-We ended up napping for a couple hours, then rallied again for dinner in view of the Tuscan sunset. Florence is a lovely town.
+
+We ended up napping for a couple hours, then rallied again for dinner in view of the Tuscan sunset.
+![Alex on Florence bridge]({{ site.baseurl}}/img/2022-06-06-alex-on-florence-bridge.jpg)
+![Cassie on Florence bridge]({{ site.baseurl}}/img/2022-06-06-cassie-on-florence-bridge.jpg)
+
+Florence is a lovely town.
 I could definitely live here, assuming I could get out of the crowds.
 All in all a great first day in Europe.
