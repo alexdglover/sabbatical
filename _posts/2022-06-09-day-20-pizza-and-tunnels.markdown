@@ -14,7 +14,10 @@ and some custom aprons as souvenirs. The staff half joked about sending photos w
 
 Thoughts about working in the food industry.
 
-After eating our pizza, we hopped in the Mini and started the drive to Lake Garda. It was about 4 hours of driving, mostly uneventful. Our hotel was in the area called Gardone, and we got glimpses of the lake as
+After eating our pizza, we hopped in the Mini and started the drive to Lake Garda. It was about 4 hours of driving, mostly uneventful. The roads highways in northern Italy
+have a *lot* of tunnels, more than I ever would have imagined. These are huge tunnels, 4 lanes wide, going 130 km/h. Lots of tunnels and bridges made for an interesting drive.
+
+Our hotel was in the area called Gardone, and we got glimpses of the lake as
 we drove into town. The area is full of flowering plants and trees, with trimmed hedges lining everything. It looks like the whole town
 has been manicuring the plants for years and years. Our room had amazing views of the lake and skyline.
 
