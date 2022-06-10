@@ -7,7 +7,7 @@ categories: phase2
 
 Day 19 had a tough start. Cassie's eye got real swollen over night from what we assumed was an allergic reaction to something. It was almost swollen shut. She handled it well
 and wasn't in a lot of pain, but no one wants to walk around with a fat eye. We decided we'd go into one of the nearby towns to find a pharmacy. This actually worked out well
-A because one of the closest towns is a beautiful walled city called San Gimignano. Parking in the town was a challenge, but once we ditched the car it was great. You could really
+because one of the closest towns is a beautiful walled city called San Gimignano. Parking in the town was a challenge, but once we ditched the car it was great. You could really
 feel the age of the town, I felt I got a sense of how many generations lived, worked, married, had kids, etc in the same place I was strolling around. It wasn't ornate like buildings
 we saw in Florence but it had a good neighborhood vibe to it. To be clear it was packed with tourists, and I don't know how many people are truly locals, but you could imagine what it
 was like to live there in the past.
