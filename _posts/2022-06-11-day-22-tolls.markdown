@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Day 22 - Tolls"
+date:   2022-06-11 18:00:00 -0500
+categories: phase2
+---
+
+Woke up and got packed again. In the morning, Cassie and I did some mediocre watercolor painting of the views from
+our hotel balcony. It's silly, neither of us are artists, but I do think it's a good way to soak in the views without
+just standing there like an idiot, or buying coffee/meals as an excuse to sit and enjoy the views. We haven't remembered
+the paints until today, so this is our first session. Hopefully we'll have time and remember to do more on our trip.
+
+![watercolor painting]({{site.baseurl}}/img/2022-06-11-watercolors.jpg)
+
+We stopped for free breakfast at the hotel before checking out and starting the drive to Switzerland. My back was still hurting
+and honestly making me crabby (look, I'm more self aware!) so I popped a few Tylenol as we left. Getting out of the Lake Garda
+region was easy - it was a Saturday, so all of the locals were driving _into_ the area, we were the only car leaving. We stopped to
+get some diesel after awhile. Me and another European (couldn't tell if he was German, Swiss, or Austrian) both struggled for a bit
+figuring out how to pay for gas. I ended up paying cash, as the machine didn't seem to like any of my cards. Gas was about €2/L, but
+I had no idea how many liters the Mini could hold. I bought 10 L, checked the gas tank and decided to buy 5 more. At this point a
+gas station attendant showed up and tried to help me. I didn't need any help, but it was a reminder of how many Europeans speak an
+impressive amount of English, and how friendly the average person is (outside of touristy areas).
+
+Throughout our drive, tolls were a theme. We arrived at our first toll booth worrying that we might not have exact change, only to
+find that this first toll booth just issued a ticket to mark your origin. We eventually paid that toll without issue, and surrendered
+our origin ticket. Then we hit another similar looking tollbooth, and panicked. We don't have a ticket this time, did we screw something up?
+We debated a last second exit ramp, debated which lane we needed to go to so we could explain our situation. I wasn't worried that
+we'd be in any trouble, but my greatest fear was jamming up a tollbooth lane with a 100 cars behind me. And this road was _busy_.
+When we got to the booth there was no problem at all, they just wanted €2.80. No ticket needed, no muss, no fuss. I had worked up
+so much anxiety I managed to drop the money when I tried to pay the lady who worked the tollbooth. I hopped out quickly to grab the bill I
+dropped, we all had a laugh, and we kept driving.
+
+So morale of the story, don't sweat anything, it's probably going to be fine.
+
+Driving through the rest of Italy was easy. We got to see several other beautiful lakes (Lugano, Lucerne, Como) as we drove through.
+When we got to the border with Switzerland, there was an easy place to pull off and buy a "vignette" which is some kind of toll sticker
+you buy once and stick to your windshield. We picked up some snacks and coffee at the same place and life was good. On the road again...
+
+After entering Switzerland, my European SIM card stopped working, and at one point we stopped the Map app to save power. So we no longer
+had active navigation. Fortunately the rental had GPS in it, although we never quite trusted the routes it suggested since they were so
+different from the phone GPS. Fortunately Cassie had taken some screenshots of the directions earlier and was able to navigate us without
+the phone. The route through Switzerland was beautiful, taking us past the lakes, huge mountains, and bright green farmland. We were on big
+roads and tiny country roads. We pulled over at a random spot and the views gave the Lake Garda a run for its money.
+
+![Lake Lucerne]({{site.baseurl}}/img/2022-06-11-swiss-drive-stop.jpg)
+
+At the most rural portion of the route, the car alerted me that oil was low and needed to be topped up ASAP.
+What a piece of shit - the car rental disappointments continue. We eventually got to a gas station about 20 minutes later. After some
+rough translating of the cars owners manual (it was in Italian) and a little help from a Swiss dude who worked at the gas station, we got
+some oil and refilled the tank. Sing it with me this time - "On the road again..."
+
+The long drive ultimately took us to a train station that took us from the tiny town of Lauterbrunnen to the even tinier mountain side town
+of Wengen, where our hotel is. We checked in and walked into town to find dinner.
+
+
+![view from Wengen]({{site.baseurl}}/img/2022-06-11-view-from-wengen.jpg)
+
+
+I'm not really a foodie, but I tried some Swiss Rösti for the first time (sort of like hash browns) so I'm posting it. By the time we
+finished dinner and got back to the hotel it was almost 2200 and still light out. We started planning the next day and finally crashed at
+2300.
+
+![rosti]({{site.baseurl}}/img/2022-06-11-rosti.jpg)
