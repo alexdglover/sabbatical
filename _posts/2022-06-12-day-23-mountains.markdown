@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 23 - Pizza and tunnels"
+title:  "Day 23 - Mountains"
 date:   2022-06-12 18:00:00 -0500
 categories: phase2
 ---
@@ -15,13 +15,24 @@ with our original plan of hiking today. Time to load up on Tylenol and cross my 
 I used my extra time this morning to catch up on writing blog posts. It was a good reminder of how quickly I forget things,
 and all the benefits I get from writing. 
 
-Got small breakfast at hotel. Took assortment of trains and cable cars to top of the mountain. Saw lots of mountains and waterfalls, could see all the way to Bern.
-Had lunch, met some nice Americans. Started the long trek back from the mountain top. Hiked down part of the mountain, about 2 miles.
-Even more trains and cable cars. Walked through Lauterbrunnen and saw a very picturesque church.
+To start the day, we got a light breakfast at the hotel. From there, we decided to start the trek up to Schlithorn, a mountain
+top with views of all the surrounding mountains, and a rotating restaurant where you can view it all. Cheesy right? It gets better -
+this place was used in one of the older James Bond movies, "On Her Majesty's Secret Service." It took two trains and three cable cars to
+get there, which was (relatively) expensive, crowded, and time consuming. Once we got up there, it was really cool and easy to overlook the
+cheesy bits. We saw lots of mountains and waterfalls, and could see all the way to Bern. We had lunch at the revolving restaurant and met
+some nice Americans. Restaurant was pretty good for a tourist trap, and was a much more relaxed place to view all the surrounding mountains.
+After lunch, we started the long trek back from the mountain top. We took two cable cars down most of the way, then hiked down part of the
+mountain, about 2 miles. Followed by 2 more cable cars. Taking cable cars beats the hell out of climbing all of these mountains in terms of
+speed and ease, but man, they are crowded and you have to take a bunch to get places.
 
-Picked up some supplies and beers, then made it back to the hotel. Cleaned up, took an accidental nap. Walked to a nearby restaurant and had minestrone
-and pizza for dinner. Predicted a storm based on a squall line wind.
+
+Once we were at the bottom of the valley, we walked through Lauterbrunnen and saw a very picturesque church.
+
+![Lauterbrunnen church]({{site.baseurl}}/img/2022-06-12-lauterbrunnen-church.jpg)
+
+At this point I was pretty tapped. I was dressed for the cold, and it was hot most of the day. Crowds drained my patience. We took the
+Lauterbrunnen train to Wengen, picked-up up some supplies and beers, then made it back to the hotel. Cleaned up, took an accidental nap
+for about an hour. We walked to a nearby restaurant and had minestrone and pizza for dinner. I predicted a storm based on a [squall line](https://en.m.wikipedia.org/wiki/Squall_line)
+wind which is always satisfying. The storm was over before we even finished dinner.
 
 Returned to hotel and practiced Spanish for awhile. Getting really good even without my tutor!
-
-All of the crowds reaffirmed my dislike of crowds and people when acting like herd animals. That's our nature though, I shouldn't be surprised or angry.
