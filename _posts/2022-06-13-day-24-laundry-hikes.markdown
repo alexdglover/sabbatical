@@ -29,7 +29,9 @@ The second hike was to Staubbachbrinkli (another arbitrary destination with good
 which was perfect for our laundry situation. The views were from the edge of the valley, looking at the waterfalls on the opposite
 side of the valley. Not as good as the first hike, but similarly refreshing in terms of open space and air.
 
-Once were back, we threw our laundry into the dryer, ram into our laundry friends again, then went back to the hotel to wait. I killed
+![Cassie hiking Staubbachbrinkli]({{site.baseurl}}/img/2022-06-13-cassie-on-staubbachbrinkli-hike.jpg)
+
+Once were back, we threw our laundry into the dryer, ran into our laundry friends again, then went back to the hotel to wait. I killed
 my remaining beer, did some Spanish lessons, and talked about dinner plans. To have a lighter meal, we decided to pick something up at
 the local grocery store when we picked up our laundry. When visiting a new place, I love to go to the grocery store. It's the great
 equalizer - everyone eats, most cultures have some kind of market, and you get a little snapshot of the locals and their lives in a grocery
