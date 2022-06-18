@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 28 - Boats and refuse"
+title:  "Day 28 - Boats and reggae"
 date:   2022-06-17 18:00:00 -0500
 categories: phase2
 ---
