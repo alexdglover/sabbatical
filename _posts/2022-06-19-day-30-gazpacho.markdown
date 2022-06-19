@@ -13,7 +13,7 @@ Today was another pool day. Got a lot of sun which felt good, plus I did lots of
 reading the second book in the Bosch series, which is starting off real strong. It has been real hot in Mallorca, so we spent some time in the pool too. It was a real
 relaxing day at the hotel. Ate lighter breakfast, and a light-ish salad for lunch.
 
-![pool day]({{site.baseurl}}/img/2022-06-19-pool.jpg)
+![pool day]({{site.baseurl}}/img/2022-06-19-pool-day.jpg)
 
 Around 1600 we got cleaned up and drove into Palma, the biggest city on the island. We saw some great views of the cathedral and even heard some special music being
 played for Sunday service.
