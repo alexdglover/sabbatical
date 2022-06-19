@@ -9,6 +9,26 @@ Today is day 30 of my 45 day sabbatical. The pessimist or worrier part of me rec
 For the rest of my vacation I'll just be relaxing, but part of my mind is already thinking about how to squeeze the most value from the last 2 weeks at home. Step 1 - stop
 thinking about what I'm doing next, focus on what I'm doing now.
 
+Today was another pool day. Got a lot of sun which felt good, plus I did lots of reading, writing, and reflecting (reflections below). Philosophizing aside, I started
+reading the second book in the Bosch series, which is starting off real strong. It has been real hot in Mallorca, so we spent some time in the pool too. It was a real
+relaxing day at the hotel. Ate lighter breakfast, and a light-ish salad for lunch.
+
+![pool day]({{site.baseurl}}/img/2022-06-19-pool.jpg)
+
+Around 1600 we got cleaned up and drove into Palma, the biggest city on the island. We saw some great views of the cathedral and even heard some special music being
+played for Sunday service.
+
+![Palma]({{site.baseurl}}/img/2022-06-19-palma.jpg)
+
+We walked around the city a bit, I picked up some new cheap tshirts (I didn't pack enough or clean enough when I did laundry), then walked some
+more. Cassie decided she didn't like the vibe as much as Valldemossa, so we went back to the car and headed out. We walked through the town and ate at a restaurant we saw the
+day before. Turns out this little unassuming restaurant in rural Mallorca was part of a five star hotel. Food was great, I had avocado toast and a Heineken, followed by finishing
+off the rest of Cassie's pizza.
+
+![Valldemossa]({{site.baseurl}}/img/2022-06-19-valldemossa.jpg)
+
+## Reflections
+
 Some things I've thought about that I want to get on paper.
 * I'm glad I took advantage of the sabbatical. Life is short. I've spent a lot of time thinking about retirement, but I'm assuming I'll spend
 the rest of my life working. This is probably a unique opportunity, like having a summer off on a grander scale
