@@ -24,5 +24,9 @@ factor. One of my goals should be to find outlets, activities, meditations that 
   * Tangent 2 - I'm wondering if the Rinzai Zen focus on mind-body exercises is just a broader application. If so, it begs the question, how was ancient Chinese life so problematic
 that one needed to seek out these kinds of exercises? Maybe the farmers and laborers were in tune with the flow of the universe, but merchants, bureaucrats, etc face similar issues as
 modern people
+* The desire for purpose, the desire to understand the meaning of life is no different than the earthly desires. To yearn for purpose will leave you exhausted and empty. One must
+instead live in tune with one's values as best we can. To have a purpose or meaning is a gift, but not a requirement for a good life. There is a quote from Seneca about living like a
+guest at a party. If a tray of food is offered to you, by all means indulge. But don't push your way past guests to get to the trays. Be patient. Don't create problems by struggling
+against the situation. But enjoy what you can
 
 
