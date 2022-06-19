@@ -24,9 +24,16 @@ veggie burger.
 We continued reading, listening to music, whatever poolside for the afternoon. At 1630 we went to get cleaned up for our little excursion to the north side of the
 island. We drove all the way up to a tiny town called Deía where some rich artists hang out, but the place was tiny. We couldn't practically park anywhere to walk
 around and check the place out. The town seemed small enough that we got the gist by driving through, so we turned around and headed back to Valldemossa, a larger
-town where our reservation was. This town was very quaint, very chill, we really enjoyed walking around and checking out the stores. We walked for about 30 minutes
+town where our reservation was. This town was very quaint, very chill, we really enjoyed walking around and checking out the stores.
+
+![Alex in Valldemossa]({{site.baseurl}}/img/2022-06-18-alex-valldemossa.jpg)
+![Cassie in Valldemossa]({{site.baseurl}}/img/2022-06-18-cassie-valldemossa.jpg)
+
+We walked for about 30 minutes
 until it was time for our reservation. We had to drive back out of town a bit to get to the restaurant. We got wine, vegetarian paella, and some excellent hazelnut
 and chocolate cake (torta avellana).
+
+![paella]({{site.baseurl}}/img/2022-06-18-paella.jpg)
 
 By the time we got back to the hotel we decided to call it an early night.
 
