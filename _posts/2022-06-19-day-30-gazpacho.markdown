@@ -48,6 +48,9 @@ modern people
 instead live in tune with one's values as best we can. To have a purpose or meaning is a gift, but not a requirement for a good life. There is a quote from Seneca about living like a
 guest at a party. If a tray of food is offered to you, by all means indulge. But don't push your way past guests to get to the trays. Be patient. Don't create problems by struggling
 against the situation. But enjoy what you can, and appreciate it
+* It's importance to balance self esteem/self worth with self improvement. If you only focus on improvement, you won't recognize your worth. If you hold yourself in too high esteem,
+you'll lack the motivation to continue challenging yourself
+
 
 ### Zen doubts
 
