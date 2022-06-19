@@ -27,6 +27,22 @@ modern people
 * The desire for purpose, the desire to understand the meaning of life is no different than the earthly desires. To yearn for purpose will leave you exhausted and empty. One must
 instead live in tune with one's values as best we can. To have a purpose or meaning is a gift, but not a requirement for a good life. There is a quote from Seneca about living like a
 guest at a party. If a tray of food is offered to you, by all means indulge. But don't push your way past guests to get to the trays. Be patient. Don't create problems by struggling
-against the situation. But enjoy what you can
+against the situation. But enjoy what you can, and appreciate it
 
+### Zen doubts
 
+I have an issue with Zen teachings and practices. It's a bit like a sales pitch where it starts with more tangible, verifiable ideas, but then quickly becomes ambiguous and questionable.
+1. Your mind is filled with desires, which clouds the mind and causes unhappiness. 100% agreed, and these claims match my empirical experience
+2. You can quiet your mind by focusing on something else. Agreed, and there's good science (e.g. fMRI scans) to back this up
+3. With a quiet mind, you see the bigger picture. You "see" yourself as being connected to everything else. This leads to more compassion, because you don't think of yourself as being
+separate or independent from other beings. Okay, starting to get a bit vague. But anecdotally and experientially, this mostly checks out.
+  * Sidenote, this is exactly how I would describe my first experience taking psychedelic mushrooms. The implications are unclear - are psychedelics a gateway to better understanding, or
+is drug induced euphoria a solution to personal desires, leaving you open to more empathy? In other words, are drugs just a fast substitute to satisfying enough of your desires to achieve
+brief clarity
+4. One who has emptied their mind can act in perfect harmony with the universe. You can't separate the dancer from the dance. The performer is acting instinctively. Athletes similarly report
+slowing of time, tunnel vision, acting before their conscious mind is even aware of something. In the Tao te Jing this is referred to as [Wei Wu Wei](https://en.m.wikipedia.org/wiki/Wu_wei)
+, literally doing not doing. Malcolm Gladwell explains these kinds of phenomena in his book Blink, explaining how humans can use a different part of our brain, not directly accessible to our
+conscious self. Whether you want to subscribe to the Eastern or Western explanations, there's definitely some truth here. However deferring to the unconscious self's intelligence is only possible
+for those who have cultivated those abilities. So a Buddhist monk, no matter how enlightened, isn't going to be able to surrender to the body's wisdom in order to play awesome baseball for
+example. Here I think the Eastern religions are riding the coat trails of other phenomena
+5. The truly enlightened have no sense of self, and refer to sense of self as a delusion. Pausing for now, more on this later
