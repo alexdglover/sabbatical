@@ -52,20 +52,39 @@ against the situation. But enjoy what you can, and appreciate it
 you'll lack the motivation to continue challenging yourself
 
 
-### Zen doubts
+### Zen, step by step
 
-I have an issue with Zen teachings and practices. It's a bit like a sales pitch where it starts with more tangible, verifiable ideas, but then quickly becomes ambiguous and questionable.
-1. Your mind is filled with desires, which clouds the mind and causes unhappiness. 100% agreed, and these claims match my empirical experience
-2. You can quiet your mind by focusing on something else. Agreed, and there's good science (e.g. fMRI scans) to back this up
+Either Zen teachings get murkier the more you progress, or I just can't remember shit well enough to piece it all together. So let's try to break down a Zen practice into some short,
+basic steps/assertions. I'll add my own notes/tangents but try to keep them clearly separated.
+1. Your mind is filled with desires, which clouds the mind and causes unhappiness.
+2. You can quiet your mind by focusing on something else.
+  * There's good science (e.g. fMRI scans) to back this up
 3. With a quiet mind, you see the bigger picture. You "see" yourself as being connected to everything else. This leads to more compassion, because you don't think of yourself as being
-separate or independent from other beings. Okay, starting to get a bit vague. But anecdotally and experientially, this mostly checks out.
-  * Sidenote, this is exactly how I would describe my first experience taking psychedelic mushrooms. The implications are unclear - are psychedelics a gateway to better understanding, or
+separate or independent from other beings.
+  * This is exactly how I would describe my first experience taking psychedelic mushrooms. The implications are unclear - are psychedelics a gateway to better understanding, or
 is drug induced euphoria a solution to personal desires, leaving you open to more empathy? In other words, are drugs just a fast substitute to satisfying enough of your desires to achieve
 brief clarity
 4. One who has emptied their mind can act in perfect harmony with the universe. You can't separate the dancer from the dance. The performer is acting instinctively. Athletes similarly report
-slowing of time, tunnel vision, acting before their conscious mind is even aware of something. In the Tao te Jing this is referred to as [Wei Wu Wei](https://en.m.wikipedia.org/wiki/Wu_wei)
+slowing of time (perceived), tunnel vision, acting before their conscious mind is even aware of something. In the Tao te Jing this is referred to as [Wei Wu Wei](https://en.m.wikipedia.org/wiki/Wu_wei)
 , literally doing not doing. Malcolm Gladwell explains these kinds of phenomena in his book Blink, explaining how humans can use a different part of our brain, not directly accessible to our
-conscious self. Whether you want to subscribe to the Eastern or Western explanations, there's definitely some truth here. However deferring to the unconscious self's intelligence is only possible
-for those who have cultivated those abilities. So a Buddhist monk, no matter how enlightened, isn't going to be able to surrender to the body's wisdom in order to play awesome baseball for
-example. Here I think the Eastern religions are riding the coat trails of other phenomena
-5. The truly enlightened have no sense of self, and refer to sense of self as a delusion. Pausing for now, more on this later
+conscious self, to do amazing things. Whether you want to subscribe to the Eastern or Western explanations, there's definitely some truth here. But there's two problems:
+  * Letting a different part of your brain drive may be a useful skill, an interesting neurological behavior, but it's not the same thing as surrendering to the universe or Tao. We can point out which
+part of your brain is active at these times, there's nothing magical about it. It's very real, physical, and if that part of your brain was damaged, you'd lose this ability. So it must not be the universe
+or some greater force beyond our corporal selves. Anything that can be smashed with a hammer is not magical. Ignoring the implications of the physical nature, the function itself is not the godly altruism
+we attribute to it. If we include all the aspects of how this part of the brain works, this includes racism and prejudice. So it's not a silver bullet for how to think and act
+  * Deferring to the unconscious self's intelligence or mind-body intelligence
+is only possible for those who have cultivated those abilities. (There are some innate abilities all humans have, like flinching, but let's set those aside for now.) So a Buddhist monk, no matter how
+enlightened, isn't suddenly going to be able to surrender to the body's wisdom and bat a 0.500 in baseball for example. How can a person cultivate the skills, the innate ability to _live in tune with the Tao_, the
+universe, whatever? I suppose the same way you get good at baseball, you play a shit load of baseball. So maybe it is possible, if you just practice letting go, going with the flow, and introspecting. Maybe
+the super power, the specific skill or second nature we're supposed to be cultivating is the ability to let go.
+5. The truly enlightened have no sense of self, and recognize the sense of self as a delusion.
+  * This is where I really struggle in Zen training. The one explanation I have is that our human brains have evolved to value society, family. You might think you're selfish, but in a scenario where small
+personal sacrifice would greatly benefit the many, most of us would prioritize others. So maybe, with a quiet and clear mind, the part of our brain that prioritizes the greater good is more prominent. Additionally,
+the Tao te Jing often talks about the Great Mother. Ignoring human mortality, each individual human is like a branch of one big tree. And in fact, all animals and plants are part of that same tree. Going one step
+further, all life is really a chain reaction from inanimate materials, so all life is connected to the initial meteorite or primordial soup, wherever life originated. The final step, as far as science can show us,
+would be all material originating from the big bang. So I guess I do get it, even without mysticism, we can see that everything is connected in a way, everything is one.
+
+
+In moments of clarity like this, my next thought is how to apply these thoughts. How to live differently. But I don't see how. In moments of peace I just want to meditate and rest forever. I must eat. I should probably
+help others. But if there is no I, and the universe is also the source of hunger, the source of suffering, I'm not sure I can or even should try to change anything. I can only think to fall back to surrendering.
+
