@@ -28,7 +28,9 @@ I thought. After checking into the hotel, we prioritized goint to visit the Trev
 the last time we visited Rome. It really is a very cool set of sculptures, and I could see it being a cool place to
 hang out if there is ever a time with fewer tourists. The locals seemed to have some kind of tradition of washing
 their hands and drinking water from the taps near the fountain, which I thought was cool even without knowing the
-details. 
+details.
+
+![Trevi fountain]({{site.baseurl}}/img/2022-06-20-trevi-fountain.jpg)
 
 We wandered the city for awhile after that looking for dinner, but it got very busy quickly and we struggled to find
 a restaurant we liked that had tables. We were so worn down we ended up eating at a Chinese restaurant of all places
