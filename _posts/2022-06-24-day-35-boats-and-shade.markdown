@@ -21,7 +21,7 @@ awhile.
 Lake Monona is a cool place to swim because you are surrounded by the lake and nature, but all within some really cool
 views of the Madison skyline too.
 
-![Madison skyline from Lake Monona]({{site.baseurl}}/img/2022-06-24-skyline.jpg)
+![Madison skyline from Lake Monona]({{site.baseurl}}/img/2022-06-24-skyline.png)
 
 After boating, Cassie and I went to get lunch at Echo Tap. I had worked up a real appetite from all the boating and
 swimming, so I was pretty psyched. I got the Friday fish fry, some decent cod. There were a few issues, but one has
