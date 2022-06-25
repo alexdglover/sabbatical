@@ -39,3 +39,13 @@ hiding in the shade. I played video games, watched some movies, and read part of
 We had frozen pizza for dinner and settled into our normal weeknight routine of watching silly game shows like Wheel
 of Fortune. I spent the rest of the night watching TV while trying to take care of my sunburns. Managed to stay up
 until 2230 in an effort to continue settling back into GMT-5 time.
+
+## This day in history
+
+This was a tough day for news. Zendesk stock, which comprises a fair chunk of my income, has dropped almost 50% over
+the last few weeks. There was a public announcement that Zendesk has been acquired by private equity firms. This isn't
+necessarily terrible news, but it's another unknown, another element of change or risk in my life. And then there was
+the biggest wammy of the day, probably of the decade. The SCOTUS had officially overturned Roe v Wade. This is the
+worst thing to happen since COVID. Arguably worse since COVID was a natural disease, whereas the stupid shit we do as
+people is man-made. Trying to stay positive without just burying my head in the sand. Lots of things to be angry about.
+Lots of people to worry about.
