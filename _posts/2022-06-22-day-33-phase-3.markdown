@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Day 33 - Phase 3"
+date:   2022-06-22 18:00:00 -0500
+categories: phase3
+---
+
+Back in Madison now, the vacation/travel part of my sabbatical is complete. On to phase 3 - wrapping things up, and
+enjoying the last ~12 days off.
+
+I was feeling pretty good, didn't seem to have any jet lag to speak of. I woke up once at ~0400 and eventually woke
+up for the day around 0700. That's a little early for me, but overall I slept pretty well.
+
+I kicked off the day by hopping on my bike, heading over to Greenbush Bakery for my favorite donuts, and then some
+coffee at Indie Coffee. Afterwards I made a list of what I really _should_ be doing over the next few days, plus
+reiterating the list of activies I _could_ do with my remaining time. I decided unpacking was the most important task
+to tackle. I knew it wouldn't take that long, and leaving clothes in a suitcase for too long is a surefire way to have
+a bunch of wrinkly and funky clothes.
+
+By the time I finished unpacking it was almost time for lunch. Cassie had taken the day off, so we decided to take
+advantage and walk to one of our all-time favorite restaurants, Himal Chuli. We had great food (as always) and sat in the
+sun, despite the heat. On our way back from lunch, we stopped at Capitol Centre grocery store to pick up ingredients
+for gazpacho.
+
+We prepared the gazpacho when we got home, with the intention of taking out a boat once the gazpacho was chilling in
+the fridge. After all my biking and time in the sun, I was a little tired. We decided to stay home and do some yoga
+instead.
+
+Finally we had the gazpacho with some Italian bread and watched some TV. 
+
+![gazpacho]({{site.baseurl}}/img/2022-06-22-gazpacho.jpg)
+
+The jet lag caught up with me at this point and I was really tired. I ended up crashing at like 2000.
+
+While I didn't accomplish a lot, I really enjoyed being back home after vacation. Being in my home, riding my bike,
+hitting up some familiar spots, and the autonomy of being on my own was really pleasant. It was a good day.
