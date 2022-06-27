@@ -5,6 +5,8 @@ date:   2022-06-26 18:00:00 -0500
 categories: phase3
 ---
 
+Had a full day, felt accomplished. Struggled a bit with meditation but it still felt relaxing, even if
+it wasn't especially insightful.
 
 * 0600 - woke up, ate breakfast
 * 0700 - meditated for 30 minutes. Made some mini pies. Not a culinary feat, the crust was already made
