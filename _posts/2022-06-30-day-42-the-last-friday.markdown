@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 42 - The last Friday and the first of July"
+date:   2022-07-01 18:00:00 -0500
+categories: phase3
+---
+
+
+
+
+* 0600 - woke up. Browsed Reddit a bit before getting up. Vibe on the internet is pretty grim. Seems like dystopia is on the menu boys
+* 0700 - finally got up and around for the day. Cleaned up the kitchen a bit to mop up some of the mess from making pizza last night
+* 0800 - hit the road, initially decided I'd walk to Dunkin Donuts for some coffee and a donut. The weather is amazing and enough to help me
+forget what the world is up to. Thought about a Tao te Ching quote - something like "know that laws are provincial." Regardless of what the US
+government is doing, there are good people out there. While the US is taking steps backwards, other countries are getting more civil. Nature
+doesn't care about man's law. On my walk I decided to pull an audible and go back to The Curve (diner) for a greasy spoon style breakfast.
