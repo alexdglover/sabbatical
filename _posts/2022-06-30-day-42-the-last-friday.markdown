@@ -23,4 +23,15 @@ down on video games and play basketball in the afternoon
 * 1200 - light lunch of a side-size portion of gnocchi. Was still full from my big breakfast
 * 1300 - headed out to Table Wine to pick up our bottle-of-the-month and a couple extra bottles of wine
 * 1330 - played video games while Cassie opened up some packages she had delivered
-* 1400 - went to the park to read
+* 1400 - went to the park to read and shoot hoops. Also got an ice cream sandwich at the park which was awesome
+* 1530 - got buggy at the park so retired to our house for more reading
+* 1615 - yoga, followed by video games
+* 1700 - showered
+* 1730 - started working on pizza for dinner. Same batch of dough, but this time with diced onions. Dough still not quite right but it was good
+to reproduce the results
+* 1830 - ate dinner
+* 1900 - finished my book
+* 1930 - tried watching an old Bond movie with Cassie but it was sort of a bust
+* 2045 - watched Stranger Things, followed by junk TV as we wound down for the evening. Finished this post
+* 2230 - crashed
+
