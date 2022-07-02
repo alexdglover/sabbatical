@@ -5,7 +5,8 @@ date:   2022-07-01 18:00:00 -0500
 categories: phase3
 ---
 
-
+A solid day. Good mix of exercise, reading, playing video games (maybe a bit too much time), cooking, shooting hoops, and reflecting.
+Not a bad day for the last Friday of my long sabbatical.
 
 
 * 0600 - woke up. Browsed Reddit a bit before getting up. Vibe on the internet is pretty grim. Seems like dystopia is on the menu boys
