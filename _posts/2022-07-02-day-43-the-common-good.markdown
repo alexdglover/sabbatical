@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 43 - TBD"
+title:  "Day 43 - The Common Good"
 date:   2022-07-02 18:00:00 -0500
 categories: phase3
 ---
@@ -18,10 +18,10 @@ in my meditation practice
 * 1400 - closed out some notifications on Slack for work in preparation for returning to work
 * 1430 - read "The Common Good" for awhile with a beer
 * 1630 - got tired from reading, fell asleep for awhile
-* 1700 - got up, played video games and 
-* 1730 - 
-* 1830 - 
-* 1900 - 
-* 1930 - 
-* 2045 - 
-* 2230 - 
+* 1700 - got up, played video games while Cassie did yoga 
+* 1730 - ordered burrito drive for dinner. Played video games while Cassie showered, then took a shower 
+* 1830 - ate dinner. Been a long time since I've had burrito drive, it was amazing
+* 1930 - read more of "The Common Good"
+* 2000 - watched Booksmart and played some board games while drinking palomas
+* 2230 - watched some bullshit TV to round out the evening
+* 2330 - updated this post and went to bed!
