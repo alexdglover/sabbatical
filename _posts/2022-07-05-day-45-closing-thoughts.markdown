@@ -21,7 +21,7 @@ that's specifically why you need to watch your consumption. It's easier to eat a
 to be healthier, you need to make the effort to have the orange some times. The same is true for time management, or making time for your priorities.
 
 Speaking of priorities, my sabbatical gave me the time and space to reflect more than I have before. I didn't build a daily meditation practice, but
-the writing has created a mechanism for reflection.
+the daily writing has created a mechanism for reflection.
 
 
 
