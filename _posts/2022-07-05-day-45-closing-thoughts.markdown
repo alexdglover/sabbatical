@@ -9,14 +9,22 @@ Today is the last day of my sabbatical. I have a very decent hangover from drink
 with a hangover feels right. The weather is cloudy, cool, with rain forecasted for most of the day. The plan is to recover, reflect, and watch
 Independence Day.
 
+## Closing thoughts
+
 Looking back on the last 45 days, with no judgement, with objective observation, I can say a few things. Using time well is *almost* as important
 as having free time. Even with no job, there were lots of cases where I didn't have time to do something. Too close to another item in my itinerary,
 unable to schedule because I was waiting on someone else's schedule, people weren't available, businesses/parks weren't open yet, inclement weather.
-This is part of the reason why I played video games so often.
+
+This is part of the reason why I played video games so often. It's easy to do with no notice or planning, can be played for anywhere between 5 and
+500 minutes, and has so few requirements/dependencies (like weather or other people). I think video games are like snacks - easy to consume, but
+that's specifically why you need to watch your consumption. It's easier to eat a handful of chips than a cutting up a healthy orange. We just need
+to make the effort to have the orange some times.
 
 
 
-## Closing thoughts
+
+
+
 
 ### Outcomes
 
