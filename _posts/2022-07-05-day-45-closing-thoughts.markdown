@@ -17,9 +17,11 @@ unable to schedule because I was waiting on someone else's schedule, people were
 
 This is part of the reason why I played video games so often. It's easy to do with no notice or planning, can be played for anywhere between 5 and
 500 minutes, and has so few requirements/dependencies (like weather or other people). I think video games are like snacks - easy to consume, but
-that's specifically why you need to watch your consumption. It's easier to eat a handful of chips than a cutting up a healthy orange. We just need
-to make the effort to have the orange some times.
+that's specifically why you need to watch your consumption. It's easier to eat a handful of chips than a cutting up a healthy orange. If you want
+to be healthier, you need to make the effort to have the orange some times. The same is true for time management, or making time for your priorities.
 
+Speaking of priorities, my sabbatical gave me the time and space to reflect more than I have before. I didn't build a daily meditation practice, but
+the writing has created a mechanism for reflection.
 
 
 
