@@ -5,7 +5,14 @@ date:   2022-07-05 18:00:00 -0500
 categories: phase3
 ---
 
+Today is the last day of my sabbatical. I have a very decent hangover from drinking a pitcher of beer by myself (mostly). Ending the sabbatical
+with a hangover feels right. The weather is cloudy, cool, with rain forecasted for most of the day. The plan is to recover, reflect, and watch
+Independence Day.
 
+Looking back on the last 45 days, with no judgement, with objective observation, I can say a few things. Using time well is *almost* as important
+as having free time. Even with no job, there were lots of cases where I didn't have time to do something. Too close to another item in my itinerary,
+unable to schedule because I was waiting on someone else's schedule, people weren't available, businesses/parks weren't open yet, inclement weather.
+This is part of the reason why I played video games so often.
 
 
 
