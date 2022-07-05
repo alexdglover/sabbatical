@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 45 - Closing thoughts"
-date:   2022-07-05 18:00:00 -0500
+date:   2022-07-04 18:00:00 -0500
 categories: phase3
 ---
 
